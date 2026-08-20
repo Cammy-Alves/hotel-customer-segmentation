@@ -98,5 +98,6 @@ The work follows CRISP-DM:
 Python 3.10+, pandas, numpy, scikit-learn (KMeans, AgglomerativeClustering, DBSCAN, PCA, MinMaxScaler, silhouette_score, NearestNeighbors), scipy (linkage, dendrogram, fcluster), matplotlib, seaborn, joblib.
 
 ---
+Developed as part of Machine Learning for Marketing at NOVA IMS (Lisbon, 2023) and refactored for public portfolio sharing.
 
 Author: Camilla Alves.
